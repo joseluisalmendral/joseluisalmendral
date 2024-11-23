@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
 
-<!--
-**joseluisalmendral/joseluisalmendral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Github Stats &nbsp;📊
+<br>
 
-Here are some ideas to get you started:
+<div style="display: flex; text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=joseluisalmendral&show_icons=true&theme=github_dark">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joseluisalmendral&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Most Used Languages 📚
+<br>
+<p align='center'>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=joseluisalmendral&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10">
+
+
+
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)

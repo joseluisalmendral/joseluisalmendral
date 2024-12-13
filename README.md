@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+<h1 align='center'> 🛠️ Data Engineer | Data Scientist 📊 </h1>
 <!--
 ## Github Stats &nbsp;📊
 <br>

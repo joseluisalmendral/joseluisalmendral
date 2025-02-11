@@ -1,4 +1,4 @@
-<h1 align='center'> 📊 Data Scientist | IA Developer </h1>
+<h1 align='center'> 📊 Data Scientist | IA Developer 🌐 </h1>
 <!--
 ## Github Stats &nbsp;📊
 <br>
